@@ -1,0 +1,26 @@
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+th, td {
+  padding: 2%;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  font-size: x-large;
+}
+
+button {
+  float : right;
+}
+
+.todoTableOptions {
+  width: 60%;
+  margin-top: 1%;
+  margin-left: 10%;
+}
